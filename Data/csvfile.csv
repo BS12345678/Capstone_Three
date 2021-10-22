@@ -1,0 +1,1130 @@
+City,sum,count,churn_rate
+Acampo,3,4,75.0
+Acton,0,4,0.0
+Adelanto,1,5,20.0
+Adin,2,4,50.0
+Agoura Hills,2,5,40.0
+Aguanga,1,4,25.0
+Ahwahnee,1,4,25.0
+Alameda,0,8,0.0
+Alamo,0,4,0.0
+Albany,2,4,50.0
+Albion,0,4,0.0
+Alderpoint,1,4,25.0
+Alhambra,4,10,40.0
+Aliso Viejo,0,4,0.0
+Alleghany,0,4,0.0
+Alpaugh,3,4,75.0
+Alpine,3,5,60.0
+Alta,0,4,0.0
+Altadena,1,5,20.0
+Alturas,1,4,25.0
+Alviso,1,4,25.0
+Amador City,3,4,75.0
+Amboy,1,5,20.0
+Anaheim,7,28,25.0
+Anderson,2,4,50.0
+Angels Camp,2,4,50.0
+Angelus Oaks,2,5,40.0
+Angwin,1,4,25.0
+Annapolis,1,4,25.0
+Antelope,2,4,50.0
+Antioch,2,4,50.0
+Anza,2,4,50.0
+Apple Valley,6,10,60.0
+Applegate,1,4,25.0
+Aptos,1,4,25.0
+Arbuckle,1,4,25.0
+Arcadia,1,10,10.0
+Arcata,0,4,0.0
+Armona,2,4,50.0
+Arnold,1,4,25.0
+Aromas,1,4,25.0
+Arroyo Grande,0,4,0.0
+Artesia,0,5,0.0
+Arvin,0,4,0.0
+Atascadero,0,4,0.0
+Atherton,2,4,50.0
+Atwater,2,4,50.0
+Auberry,0,4,0.0
+Auburn,2,8,25.0
+Avalon,2,5,40.0
+Avenal,3,4,75.0
+Avery,1,4,25.0
+Avila Beach,0,4,0.0
+Azusa,1,5,20.0
+Badger,1,4,25.0
+Baker,1,4,25.0
+Bakersfield,3,40,7.5
+Baldwin Park,0,5,0.0
+Ballico,1,4,25.0
+Bangor,2,4,50.0
+Banning,1,5,20.0
+Barstow,1,4,25.0
+Bass Lake,1,4,25.0
+Bayside,2,4,50.0
+Beale Afb,1,4,25.0
+Beaumont,1,5,20.0
+Bell,0,5,0.0
+Bella Vista,1,4,25.0
+Bellflower,2,5,40.0
+Belmont,1,4,25.0
+Belvedere Tiburon,0,4,0.0
+Ben Lomond,1,4,25.0
+Benicia,0,4,0.0
+Benton,1,4,25.0
+Berkeley,9,32,28.125
+Berry Creek,0,4,0.0
+Bethel Island,0,4,0.0
+Beverly Hills,1,15,6.666666666666667
+Bieber,1,4,25.0
+Big Bar,0,4,0.0
+Big Bear City,2,4,50.0
+Big Bear Lake,0,4,0.0
+Big Bend,2,4,50.0
+Big Creek,1,4,25.0
+Big Oak Flat,2,4,50.0
+Big Pine,1,4,25.0
+Big Sur,1,4,25.0
+Biggs,0,4,0.0
+Biola,3,4,75.0
+Birds Landing,1,4,25.0
+Bishop,0,4,0.0
+Blairsden Graeagle,1,4,25.0
+Blocksburg,0,4,0.0
+Bloomington,2,4,50.0
+Blue Lake,2,4,50.0
+Blythe,1,5,20.0
+Bodega,0,4,0.0
+Bodega Bay,1,4,25.0
+Bodfish,3,4,75.0
+Bolinas,1,4,25.0
+Bonita,2,5,40.0
+Bonsall,2,5,40.0
+Boonville,0,4,0.0
+Boron,1,4,25.0
+Borrego Springs,2,5,40.0
+Boulder Creek,4,4,100.0
+Boulevard,2,5,40.0
+Bradley,2,4,50.0
+Branscomb,2,4,50.0
+Brawley,1,5,20.0
+Brea,4,8,50.0
+Brentwood,0,4,0.0
+Bridgeport,0,4,0.0
+Bridgeville,3,4,75.0
+Brisbane,1,4,25.0
+Brookdale,0,4,0.0
+Brooks,1,4,25.0
+Browns Valley,1,4,25.0
+Brownsville,1,4,25.0
+Buellton,2,4,50.0
+Buena Park,4,10,40.0
+Burbank,6,25,24.0
+Burlingame,2,4,50.0
+Burney,2,4,50.0
+Burnt Ranch,1,4,25.0
+Burson,0,4,0.0
+Butte City,1,4,25.0
+Buttonwillow,2,4,50.0
+Byron,3,4,75.0
+Cabazon,1,5,20.0
+Calabasas,0,5,0.0
+Calexico,1,5,20.0
+Caliente,1,4,25.0
+California City,0,4,0.0
+California Hot Springs,1,4,25.0
+Calimesa,1,4,25.0
+Calipatria,1,5,20.0
+Calistoga,1,4,25.0
+Callahan,1,4,25.0
+Calpine,0,4,0.0
+Camarillo,4,8,50.0
+Cambria,0,4,0.0
+Camino,1,4,25.0
+Camp Nelson,2,4,50.0
+Campbell,1,4,25.0
+Campo,3,5,60.0
+Campo Seco,1,4,25.0
+Camptonville,1,4,25.0
+Canby,1,4,25.0
+Canoga Park,3,10,30.0
+Cantua Creek,1,4,25.0
+Canyon Country,2,5,40.0
+Canyon Dam,2,4,50.0
+Capay,0,4,0.0
+Capistrano Beach,1,4,25.0
+Capitola,1,4,25.0
+Cardiff By The Sea,1,5,20.0
+Carlotta,0,4,0.0
+Carlsbad,4,10,40.0
+Carmel,1,4,25.0
+Carmel By The Sea,1,4,25.0
+Carmel Valley,1,4,25.0
+Carmichael,2,4,50.0
+Carnelian Bay,2,4,50.0
+Carpinteria,1,4,25.0
+Carson,2,10,20.0
+Caruthers,0,4,0.0
+Casmalia,1,4,25.0
+Caspar,2,4,50.0
+Cassel,1,4,25.0
+Castaic,2,5,40.0
+Castella,2,4,50.0
+Castro Valley,1,8,12.5
+Castroville,0,4,0.0
+Cathedral City,0,5,0.0
+Catheys Valley,1,4,25.0
+Cayucos,0,4,0.0
+Cazadero,0,4,0.0
+Cedar Glen,1,4,25.0
+Cedarville,0,4,0.0
+Ceres,0,4,0.0
+Cerritos,1,5,20.0
+Challenge,2,4,50.0
+Chatsworth,1,5,20.0
+Chester,0,4,0.0
+Chico,3,12,25.0
+Chilcoot,0,4,0.0
+Chino,2,5,40.0
+Chino Hills,0,5,0.0
+Chowchilla,0,4,0.0
+Chualar,1,4,25.0
+Chula Vista,5,25,20.0
+Citrus Heights,1,8,12.5
+Claremont,2,5,40.0
+Clarksburg,2,4,50.0
+Clayton,1,4,25.0
+Clearlake,2,4,50.0
+Clearlake Oaks,2,4,50.0
+Clements,1,4,25.0
+Clio,0,4,0.0
+Clipper Mills,1,4,25.0
+Cloverdale,1,4,25.0
+Clovis,2,8,25.0
+Coachella,1,5,20.0
+Coalinga,2,4,50.0
+Coarsegold,0,4,0.0
+Cobb,1,4,25.0
+Coleville,0,4,0.0
+Colfax,1,4,25.0
+Colton,1,4,25.0
+Columbia,2,4,50.0
+Colusa,1,4,25.0
+Comptche,3,4,75.0
+Compton,2,15,13.333333333333334
+Concord,6,16,37.5
+Cool,1,4,25.0
+Copperopolis,0,4,0.0
+Corcoran,1,4,25.0
+Corning,1,4,25.0
+Corona,2,20,10.0
+Corona Del Mar,3,4,75.0
+Coronado,2,5,40.0
+Corte Madera,1,4,25.0
+Costa Mesa,3,8,37.5
+Cotati,2,4,50.0
+Cottonwood,1,4,25.0
+Coulterville,0,4,0.0
+Courtland,0,4,0.0
+Covelo,1,4,25.0
+Covina,3,15,20.0
+Crescent City,2,4,50.0
+Crescent Mills,1,4,25.0
+Cressey,0,4,0.0
+Crestline,2,4,50.0
+Creston,0,4,0.0
+Crockett,2,4,50.0
+Crows Landing,1,4,25.0
+Culver City,3,10,30.0
+Cupertino,2,4,50.0
+Cutler,1,4,25.0
+Cypress,0,5,0.0
+Daggett,1,4,25.0
+Daly City,5,8,62.5
+Dana Point,2,4,50.0
+Danville,1,8,12.5
+Darwin,0,4,0.0
+Davenport,2,4,50.0
+Davis,4,8,50.0
+Davis Creek,1,4,25.0
+Death Valley,0,4,0.0
+Deer Park,2,4,50.0
+Del Mar,3,5,60.0
+Del Rey,0,4,0.0
+Delano,2,4,50.0
+Delhi,3,4,75.0
+Denair,1,4,25.0
+Descanso,0,5,0.0
+Desert Center,2,5,40.0
+Desert Hot Springs,3,10,30.0
+Diamond Bar,0,5,0.0
+Diamond Springs,2,4,50.0
+Dillon Beach,0,4,0.0
+Dinuba,3,4,75.0
+Dixon,1,4,25.0
+Dobbins,2,4,50.0
+Dorris,1,4,25.0
+Dos Palos,0,4,0.0
+Dos Rios,0,4,0.0
+Douglas City,2,4,50.0
+Downey,3,15,20.0
+Downieville,1,4,25.0
+Doyle,1,4,25.0
+Duarte,2,5,40.0
+Dublin,2,4,50.0
+Ducor,1,4,25.0
+Dulzura,1,5,20.0
+Duncans Mills,0,4,0.0
+Dunlap,1,4,25.0
+Dunnigan,2,4,50.0
+Dunsmuir,1,4,25.0
+Durham,0,4,0.0
+Dutch Flat,2,4,50.0
+Eagleville,2,4,50.0
+Earlimart,1,4,25.0
+Earp,0,5,0.0
+Echo Lake,1,4,25.0
+Edwards,1,4,25.0
+El Cajon,3,15,20.0
+El Centro,1,5,20.0
+El Cerrito,0,4,0.0
+El Dorado,1,4,25.0
+El Dorado Hills,0,4,0.0
+El Monte,6,10,60.0
+El Nido,0,4,0.0
+El Portal,0,4,0.0
+El Segundo,1,5,20.0
+El Sobrante,1,4,25.0
+Eldridge,4,4,100.0
+Elk,1,4,25.0
+Elk Creek,1,4,25.0
+Elk Grove,4,8,50.0
+Elmira,2,4,50.0
+Elverta,2,4,50.0
+Emeryville,2,4,50.0
+Emigrant Gap,1,4,25.0
+Encinitas,2,5,40.0
+Encino,1,10,10.0
+Escalon,0,4,0.0
+Escondido,4,20,20.0
+Esparto,0,4,0.0
+Essex,0,4,0.0
+Etna,1,4,25.0
+Eureka,2,8,25.0
+Exeter,3,4,75.0
+Fair Oaks,2,4,50.0
+Fairfax,0,4,0.0
+Fairfield,2,4,50.0
+Fall River Mills,1,4,25.0
+Fallbrook,2,5,40.0
+Farmersville,1,4,25.0
+Farmington,0,4,0.0
+Fawnskin,1,4,25.0
+Fellows,3,4,75.0
+Felton,1,4,25.0
+Ferndale,1,4,25.0
+Fiddletown,0,4,0.0
+Fields Landing,1,4,25.0
+Fillmore,0,4,0.0
+Firebaugh,0,4,0.0
+Fish Camp,0,4,0.0
+Five Points,2,4,50.0
+Flournoy,1,4,25.0
+Folsom,2,4,50.0
+Fontana,3,12,25.0
+Foothill Ranch,2,4,50.0
+Forbestown,1,4,25.0
+Forest Falls,0,4,0.0
+Forest Knolls,1,4,25.0
+Forest Ranch,1,4,25.0
+Foresthill,0,4,0.0
+Forestville,0,4,0.0
+Forks Of Salmon,0,4,0.0
+Fort Bidwell,2,4,50.0
+Fort Bragg,0,4,0.0
+Fort Irwin,0,4,0.0
+Fort Jones,4,4,100.0
+Fortuna,0,4,0.0
+Fountain Valley,0,4,0.0
+Fowler,1,4,25.0
+Frazier Park,1,8,12.5
+Freedom,1,4,25.0
+Fremont,7,16,43.75
+French Camp,1,4,25.0
+French Gulch,0,4,0.0
+Fresno,16,64,25.0
+Friant,1,4,25.0
+Fullerton,2,16,12.5
+Fulton,2,4,50.0
+Galt,1,4,25.0
+Garberville,1,4,25.0
+Garden Grove,4,20,20.0
+Garden Valley,2,4,50.0
+Gardena,1,15,6.666666666666667
+Gasquet,1,4,25.0
+Gazelle,0,4,0.0
+Georgetown,0,4,0.0
+Gerber,0,4,0.0
+Geyserville,0,4,0.0
+Gilroy,1,4,25.0
+Glen Ellen,1,4,25.0
+Glencoe,2,4,50.0
+Glendale,13,40,32.5
+Glendora,2,10,20.0
+Glenhaven,0,4,0.0
+Glenn,0,4,0.0
+Glennville,0,4,0.0
+Gold Run,0,4,0.0
+Goleta,0,4,0.0
+Gonzales,0,4,0.0
+Goodyears Bar,0,4,0.0
+Granada Hills,1,5,20.0
+Grand Terrace,0,4,0.0
+Granite Bay,1,4,25.0
+Grass Valley,2,8,25.0
+Graton,1,4,25.0
+Green Valley Lake,2,4,50.0
+Greenbrae,1,4,25.0
+Greenfield,1,4,25.0
+Greenview,1,4,25.0
+Greenville,0,4,0.0
+Greenwood,2,4,50.0
+Grenada,0,4,0.0
+Gridley,1,4,25.0
+Grimes,3,4,75.0
+Grizzly Flats,3,4,75.0
+Groveland,1,4,25.0
+Grover Beach,0,4,0.0
+Guadalupe,1,4,25.0
+Gualala,1,4,25.0
+Guatay,3,5,60.0
+Guerneville,1,4,25.0
+Guinda,2,4,50.0
+Gustine,1,4,25.0
+Hacienda Heights,1,5,20.0
+Half Moon Bay,1,4,25.0
+Hamilton City,1,4,25.0
+Hanford,0,4,0.0
+Happy Camp,2,4,50.0
+Harbor City,2,5,40.0
+Hat Creek,2,4,50.0
+Hathaway Pines,2,4,50.0
+Hawaiian Gardens,1,5,20.0
+Hawthorne,1,5,20.0
+Hayfork,3,4,75.0
+Hayward,5,16,31.25
+Healdsburg,1,4,25.0
+Heber,2,5,40.0
+Helendale,0,4,0.0
+Helm,1,4,25.0
+Hemet,2,12,16.666666666666664
+Herald,1,4,25.0
+Hercules,0,4,0.0
+Herlong,0,4,0.0
+Hermosa Beach,3,5,60.0
+Hesperia,0,4,0.0
+Hickman,2,4,50.0
+Highland,1,4,25.0
+Hilmar,0,4,0.0
+Hinkley,1,4,25.0
+Hollister,1,4,25.0
+Holtville,3,5,60.0
+Homeland,2,4,50.0
+Homewood,2,4,50.0
+Honeydew,1,4,25.0
+Hood,1,4,25.0
+Hoopa,1,4,25.0
+Hopland,1,4,25.0
+Hornbrook,1,4,25.0
+Hornitos,0,4,0.0
+Hughson,2,4,50.0
+Hume,2,4,50.0
+Huntington Beach,4,16,25.0
+Huntington Park,3,5,60.0
+Huron,2,4,50.0
+Hyampom,0,4,0.0
+Hydesville,2,4,50.0
+Idyllwild,1,4,25.0
+Igo,1,4,25.0
+Imperial,2,5,40.0
+Imperial Beach,2,5,40.0
+Independence,1,4,25.0
+Indian Wells,4,5,80.0
+Indio,3,10,30.0
+Inglewood,5,25,20.0
+Inverness,1,4,25.0
+Inyokern,2,4,50.0
+Ione,0,4,0.0
+Irvine,5,28,17.857142857142858
+Isleton,1,4,25.0
+Ivanhoe,1,4,25.0
+Jackson,3,4,75.0
+Jacumba,3,5,60.0
+Jamestown,1,4,25.0
+Jamul,2,5,40.0
+Janesville,0,4,0.0
+Jenner,1,4,25.0
+Johannesburg,4,4,100.0
+Jolon,2,4,50.0
+Joshua Tree,1,5,20.0
+Julian,2,5,40.0
+Junction City,0,4,0.0
+June Lake,0,4,0.0
+Keeler,0,4,0.0
+Keene,3,4,75.0
+Kelseyville,0,4,0.0
+Kenwood,0,4,0.0
+Kerman,1,4,25.0
+Kernville,1,4,25.0
+Kettleman City,0,4,0.0
+Keyes,0,4,0.0
+King City,1,4,25.0
+Kings Beach,1,4,25.0
+Kingsburg,1,4,25.0
+Kirkwood,1,4,25.0
+Klamath,1,4,25.0
+Klamath River,2,4,50.0
+Kneeland,0,4,0.0
+Knights Landing,1,4,25.0
+Korbel,1,4,25.0
+Kyburz,1,4,25.0
+La Canada Flintridge,1,5,20.0
+La Crescenta,0,5,0.0
+La Grange,1,4,25.0
+La Habra,2,5,40.0
+La Honda,0,4,0.0
+La Jolla,1,5,20.0
+La Mesa,1,10,10.0
+La Mirada,0,5,0.0
+La Palma,3,5,60.0
+La Puente,7,10,70.0
+La Quinta,1,5,20.0
+La Verne,0,5,0.0
+Ladera Ranch,1,4,25.0
+Lafayette,1,4,25.0
+Laguna Beach,1,4,25.0
+Laguna Hills,0,4,0.0
+Laguna Niguel,0,4,0.0
+Lagunitas,0,4,0.0
+Lake Arrowhead,0,4,0.0
+Lake City,3,4,75.0
+Lake Elsinore,2,8,25.0
+Lake Forest,2,4,50.0
+Lake Hughes,2,4,50.0
+Lake Isabella,0,4,0.0
+Lakehead,1,4,25.0
+Lakeport,1,4,25.0
+Lakeshore,0,4,0.0
+Lakeside,1,5,20.0
+Lakewood,6,15,40.0
+Lamont,0,4,0.0
+Lancaster,5,12,41.66666666666667
+Landers,1,5,20.0
+Larkspur,2,4,50.0
+Lathrop,2,4,50.0
+Laton,0,4,0.0
+Lawndale,2,5,40.0
+Laytonville,1,4,25.0
+Le Grand,0,4,0.0
+Lebec,1,4,25.0
+Lee Vining,1,4,25.0
+Leggett,0,4,0.0
+Lemon Cove,2,4,50.0
+Lemon Grove,0,5,0.0
+Lemoore,1,4,25.0
+Lewiston,3,4,75.0
+Likely,1,4,25.0
+Lincoln,0,4,0.0
+Linden,1,4,25.0
+Lindsay,1,4,25.0
+Litchfield,0,4,0.0
+Little River,0,4,0.0
+Littlerock,0,4,0.0
+Live Oak,1,4,25.0
+Livermore,1,4,25.0
+Livingston,1,4,25.0
+Llano,0,4,0.0
+Lockeford,1,4,25.0
+Lockwood,2,4,50.0
+Lodi,3,8,37.5
+Loleta,1,4,25.0
+Loma Linda,0,4,0.0
+Loma Mar,2,4,50.0
+Lomita,2,5,40.0
+Lompoc,5,8,62.5
+Lone Pine,1,4,25.0
+Long Barn,1,4,25.0
+Long Beach,15,60,25.0
+Lookout,0,4,0.0
+Loomis,1,4,25.0
+Los Alamitos,1,5,20.0
+Los Alamos,2,4,50.0
+Los Altos,1,8,12.5
+Los Angeles,90,305,29.508196721311474
+Los Banos,0,4,0.0
+Los Gatos,4,12,33.33333333333333
+Los Molinos,1,4,25.0
+Los Olivos,0,4,0.0
+Los Osos,1,4,25.0
+Lost Hills,0,4,0.0
+Lotus,2,4,50.0
+Lower Lake,0,4,0.0
+Loyalton,0,4,0.0
+Lucerne,1,4,25.0
+Lucerne Valley,2,4,50.0
+Ludlow,3,4,75.0
+Lynwood,2,5,40.0
+Lytle Creek,1,4,25.0
+Macdoel,0,4,0.0
+Mad River,0,4,0.0
+Madeline,0,4,0.0
+Madera,3,8,37.5
+Madison,1,4,25.0
+Magalia,1,4,25.0
+Malibu,2,10,20.0
+Mammoth Lakes,0,4,0.0
+Manchester,0,4,0.0
+Manhattan Beach,0,5,0.0
+Manteca,0,8,0.0
+Manton,0,4,0.0
+March Air Reserve Base,2,4,50.0
+Maricopa,4,4,100.0
+Marina,3,4,75.0
+Marina Del Rey,3,5,60.0
+Mariposa,2,4,50.0
+Markleeville,0,4,0.0
+Marshall,2,4,50.0
+Martinez,2,4,50.0
+Marysville,0,4,0.0
+Mather,2,4,50.0
+Maxwell,1,4,25.0
+Maywood,0,5,0.0
+Mc Farland,0,4,0.0
+Mc Kittrick,2,4,50.0
+Mcarthur,1,4,25.0
+Mccloud,0,4,0.0
+Mckinleyville,2,4,50.0
+Meadow Valley,1,4,25.0
+Meadow Vista,2,4,50.0
+Mecca,0,5,0.0
+Mendocino,2,4,50.0
+Mendota,1,4,25.0
+Menifee,0,4,0.0
+Menlo Park,0,4,0.0
+Mentone,1,4,25.0
+Merced,2,8,25.0
+Meridian,0,4,0.0
+Mi Wuk Village,1,4,25.0
+Middletown,0,4,0.0
+Midpines,0,4,0.0
+Midway City,1,4,25.0
+Milford,0,4,0.0
+Mill Creek,1,4,25.0
+Mill Valley,1,4,25.0
+Millbrae,1,4,25.0
+Millville,0,4,0.0
+Milpitas,1,4,25.0
+Mineral,2,4,50.0
+Mira Loma,1,5,20.0
+Miramonte,1,4,25.0
+Miranda,3,4,75.0
+Mission Hills,2,5,40.0
+Mission Viejo,1,8,12.5
+Modesto,12,28,42.857142857142854
+Mojave,2,4,50.0
+Mokelumne Hill,0,4,0.0
+Monrovia,1,5,20.0
+Montague,3,4,75.0
+Montara,0,4,0.0
+Montclair,1,5,20.0
+Monte Rio,0,4,0.0
+Montebello,1,5,20.0
+Monterey,0,4,0.0
+Monterey Park,1,10,10.0
+Montgomery Creek,0,4,0.0
+Montrose,1,5,20.0
+Moorpark,2,4,50.0
+Moraga,2,4,50.0
+Moreno Valley,5,16,31.25
+Morgan Hill,2,4,50.0
+Morongo Valley,0,5,0.0
+Morro Bay,1,4,25.0
+Moss Beach,0,4,0.0
+Moss Landing,1,4,25.0
+Mount Hamilton,0,4,0.0
+Mount Hermon,0,4,0.0
+Mount Laguna,3,5,60.0
+Mount Shasta,0,4,0.0
+Mountain Center,0,4,0.0
+Mountain Ranch,1,4,25.0
+Mountain View,4,12,33.33333333333333
+Mt Baldy,0,5,0.0
+Murphys,1,4,25.0
+Murrieta,2,8,25.0
+Myers Flat,1,4,25.0
+Napa,3,8,37.5
+National City,0,5,0.0
+Navarro,1,4,25.0
+Needles,0,4,0.0
+Nevada City,1,4,25.0
+New Cuyama,1,4,25.0
+Newark,0,4,0.0
+Newberry Springs,2,4,50.0
+Newbury Park,0,5,0.0
+Newcastle,1,4,25.0
+Newhall,1,5,20.0
+Newman,1,4,25.0
+Newport Beach,5,16,31.25
+Newport Coast,1,4,25.0
+Nicasio,1,4,25.0
+Nice,2,4,50.0
+Nicolaus,1,4,25.0
+Niland,2,5,40.0
+Nipomo,2,4,50.0
+Nipton,0,4,0.0
+Norco,1,4,25.0
+North Fork,1,4,25.0
+North Highlands,0,4,0.0
+North Hills,1,5,20.0
+North Hollywood,9,20,45.0
+North Palm Springs,3,5,60.0
+North San Juan,0,4,0.0
+Northridge,2,10,20.0
+Norwalk,0,5,0.0
+Novato,6,12,50.0
+Nubieber,1,4,25.0
+Nuevo,1,4,25.0
+O Neals,0,4,0.0
+Oak Park,0,5,0.0
+Oak Run,2,4,50.0
+Oak View,1,4,25.0
+Oakdale,2,4,50.0
+Oakhurst,1,4,25.0
+Oakland,13,52,25.0
+Oakley,1,4,25.0
+Occidental,0,4,0.0
+Oceano,2,4,50.0
+Oceanside,5,15,33.33333333333333
+Ocotillo,2,5,40.0
+Ojai,1,4,25.0
+Olancha,1,4,25.0
+Old Station,3,4,75.0
+Olema,1,4,25.0
+Olivehurst,1,4,25.0
+Olympic Valley,0,4,0.0
+Ontario,4,15,26.666666666666668
+Onyx,2,4,50.0
+Orange,3,20,15.0
+Orange Cove,0,4,0.0
+Orangevale,3,4,75.0
+Oregon House,0,4,0.0
+Orick,0,4,0.0
+Orinda,1,4,25.0
+Orland,1,4,25.0
+Orleans,0,4,0.0
+Oro Grande,1,4,25.0
+Orosi,2,4,50.0
+Oroville,2,8,25.0
+Oxnard,3,12,25.0
+Pacific Grove,1,4,25.0
+Pacific Palisades,2,5,40.0
+Pacifica,0,4,0.0
+Pacoima,2,5,40.0
+Paicines,0,4,0.0
+Pala,2,5,40.0
+Palermo,1,4,25.0
+Palm Desert,4,10,40.0
+Palm Springs,3,10,30.0
+Palmdale,6,16,37.5
+Palo Alto,4,16,25.0
+Palo Cedro,2,4,50.0
+Palo Verde,0,5,0.0
+Palomar Mountain,3,5,60.0
+Palos Verdes Peninsula,0,5,0.0
+Panorama City,4,5,80.0
+Paradise,0,4,0.0
+Paramount,1,5,20.0
+Parker Dam,1,5,20.0
+Parlier,1,4,25.0
+Pasadena,9,30,30.0
+Paskenta,3,4,75.0
+Paso Robles,0,4,0.0
+Patterson,1,4,25.0
+Pauma Valley,3,5,60.0
+Paynes Creek,1,4,25.0
+Pearblossom,3,4,75.0
+Pebble Beach,1,4,25.0
+Penn Valley,0,4,0.0
+Penngrove,0,4,0.0
+Penryn,1,4,25.0
+Perris,2,8,25.0
+Pescadero,1,4,25.0
+Petaluma,0,8,0.0
+Petrolia,1,4,25.0
+Phelan,2,4,50.0
+Phillipsville,0,4,0.0
+Philo,1,4,25.0
+Pico Rivera,2,5,40.0
+Piercy,1,4,25.0
+Pilot Hill,1,4,25.0
+Pine Grove,1,4,25.0
+Pine Valley,0,5,0.0
+Pinecrest,2,4,50.0
+Pinole,2,4,50.0
+Pinon Hills,0,4,0.0
+Pioneer,1,4,25.0
+Pioneertown,0,5,0.0
+Piru,3,4,75.0
+Pismo Beach,2,4,50.0
+Pittsburg,1,4,25.0
+Pixley,0,4,0.0
+Placentia,1,4,25.0
+Placerville,0,4,0.0
+Planada,2,4,50.0
+Platina,1,4,25.0
+Playa Del Rey,0,5,0.0
+Pleasant Grove,2,4,50.0
+Pleasant Hill,1,4,25.0
+Pleasanton,3,8,37.5
+Plymouth,2,4,50.0
+Point Arena,1,4,25.0
+Point Reyes Station,1,4,25.0
+Pollock Pines,1,4,25.0
+Pomona,5,15,33.33333333333333
+Pope Valley,3,4,75.0
+Port Costa,2,4,50.0
+Port Hueneme,1,4,25.0
+Porter Ranch,1,5,20.0
+Porterville,1,4,25.0
+Portola,1,4,25.0
+Portola Valley,1,4,25.0
+Posey,1,4,25.0
+Potrero,0,5,0.0
+Potter Valley,0,4,0.0
+Poway,1,5,20.0
+Prather,1,4,25.0
+Princeton,2,4,50.0
+Quincy,3,4,75.0
+Raisin City,0,4,0.0
+Ramona,1,5,20.0
+Ranchita,1,5,20.0
+Rancho Cordova,3,8,37.5
+Rancho Cucamonga,4,20,20.0
+Rancho Mirage,2,5,40.0
+Rancho Palos Verdes,0,5,0.0
+Rancho Santa Fe,1,10,10.0
+Rancho Santa Margarita,1,4,25.0
+Randsburg,1,4,25.0
+Ravendale,1,4,25.0
+Raymond,0,4,0.0
+Red Bluff,2,4,50.0
+Redcrest,0,4,0.0
+Redding,2,12,16.666666666666664
+Redlands,4,8,50.0
+Redondo Beach,1,10,10.0
+Redway,1,4,25.0
+Redwood City,3,16,18.75
+Redwood Valley,1,4,25.0
+Reedley,0,4,0.0
+Rescue,1,4,25.0
+Reseda,2,5,40.0
+Rialto,2,8,25.0
+Richgrove,1,4,25.0
+Richmond,4,12,33.33333333333333
+Richvale,0,4,0.0
+Ridgecrest,2,4,50.0
+Rio Dell,3,4,75.0
+Rio Linda,1,4,25.0
+Rio Nido,1,4,25.0
+Rio Oso,1,4,25.0
+Rio Vista,1,4,25.0
+Ripon,0,4,0.0
+River Pines,0,4,0.0
+Riverbank,4,4,100.0
+Riverdale,1,4,25.0
+Riverside,8,32,25.0
+Rocklin,0,8,0.0
+Rodeo,2,4,50.0
+Rohnert Park,1,4,25.0
+Rosamond,1,4,25.0
+Rosemead,3,5,60.0
+Roseville,3,12,25.0
+Rough And Ready,2,4,50.0
+Round Mountain,1,4,25.0
+Rowland Heights,3,5,60.0
+Running Springs,3,4,75.0
+Sacramento,26,108,24.074074074074073
+Saint Helena,2,4,50.0
+Salida,1,4,25.0
+Salinas,4,20,20.0
+Salton City,0,5,0.0
+Salyer,1,4,25.0
+Samoa,1,4,25.0
+San Andreas,0,4,0.0
+San Anselmo,2,4,50.0
+San Ardo,0,4,0.0
+San Bernardino,8,28,28.57142857142857
+San Bruno,1,4,25.0
+San Carlos,0,4,0.0
+San Clemente,0,8,0.0
+San Diego,50,150,33.33333333333333
+San Dimas,4,5,80.0
+San Fernando,1,5,20.0
+San Francisco,31,104,29.807692307692307
+San Gabriel,3,10,30.0
+San Geronimo,0,4,0.0
+San Gregorio,0,4,0.0
+San Jacinto,2,8,25.0
+San Joaquin,1,4,25.0
+San Jose,29,112,25.892857142857146
+San Juan Bautista,1,4,25.0
+San Juan Capistrano,0,4,0.0
+San Leandro,1,12,8.333333333333332
+San Lorenzo,1,4,25.0
+San Lucas,2,4,50.0
+San Luis Obispo,3,8,37.5
+San Marcos,3,10,30.0
+San Marino,2,5,40.0
+San Martin,1,4,25.0
+San Mateo,5,16,31.25
+San Miguel,0,4,0.0
+San Pablo,1,4,25.0
+San Pedro,2,10,20.0
+San Quentin,0,4,0.0
+San Rafael,4,8,50.0
+San Ramon,1,4,25.0
+San Simeon,0,4,0.0
+San Ysidro,1,5,20.0
+Sanger,1,4,25.0
+Santa Ana,6,24,25.0
+Santa Barbara,10,28,35.714285714285715
+Santa Clara,3,12,25.0
+Santa Clarita,2,5,40.0
+Santa Cruz,4,16,25.0
+Santa Fe Springs,1,5,20.0
+Santa Margarita,0,4,0.0
+Santa Maria,0,12,0.0
+Santa Monica,5,25,20.0
+Santa Paula,2,4,50.0
+Santa Rosa,11,24,45.83333333333333
+Santa Ynez,0,4,0.0
+Santa Ysabel,0,5,0.0
+Santee,2,5,40.0
+Saratoga,0,4,0.0
+Sausalito,3,4,75.0
+Scotia,0,4,0.0
+Scott Bar,0,4,0.0
+Scotts Valley,0,4,0.0
+Seal Beach,2,5,40.0
+Seaside,2,4,50.0
+Sebastopol,0,4,0.0
+Seeley,4,5,80.0
+Seiad Valley,2,4,50.0
+Selma,2,4,50.0
+Sequoia National Park,1,4,25.0
+Shafter,2,4,50.0
+Shandon,0,4,0.0
+Shasta,1,4,25.0
+Shasta Lake,1,4,25.0
+Shaver Lake,2,4,50.0
+Sheep Ranch,2,4,50.0
+Sheridan,1,4,25.0
+Sherman Oaks,4,10,40.0
+Shingle Springs,0,4,0.0
+Shingletown,1,4,25.0
+Shoshone,1,4,25.0
+Sierra City,3,4,75.0
+Sierra Madre,1,5,20.0
+Sierraville,2,4,50.0
+Silverado,2,4,50.0
+Simi Valley,1,8,12.5
+Sloughhouse,2,4,50.0
+Smartville,0,4,0.0
+Smith River,4,4,100.0
+Snelling,2,4,50.0
+Soda Springs,2,4,50.0
+Solana Beach,2,5,40.0
+Soledad,0,4,0.0
+Solvang,1,4,25.0
+Somerset,0,4,0.0
+Somes Bar,1,4,25.0
+Somis,2,4,50.0
+Sonoma,1,4,25.0
+Sonora,0,4,0.0
+Soquel,0,4,0.0
+Soulsbyville,2,4,50.0
+South Dos Palos,3,4,75.0
+South El Monte,1,5,20.0
+South Gate,0,5,0.0
+South Lake Tahoe,4,4,100.0
+South Pasadena,3,5,60.0
+South San Francisco,2,4,50.0
+Spreckels,0,4,0.0
+Spring Valley,2,10,20.0
+Springville,0,4,0.0
+Squaw Valley,2,4,50.0
+Standish,0,4,0.0
+Stanford,0,4,0.0
+Stanton,1,5,20.0
+Stevenson Ranch,2,5,40.0
+Stevinson,1,4,25.0
+Stinson Beach,1,4,25.0
+Stirling City,0,4,0.0
+Stockton,12,44,27.27272727272727
+Stonyford,0,4,0.0
+Stratford,1,4,25.0
+Strathmore,1,4,25.0
+Strawberry Valley,2,4,50.0
+Studio City,0,5,0.0
+Sugarloaf,1,4,25.0
+Suisun City,0,4,0.0
+Sultana,0,4,0.0
+Summerland,3,4,75.0
+Sun City,3,12,25.0
+Sun Valley,1,5,20.0
+Sunland,1,5,20.0
+Sunnyvale,2,12,16.666666666666664
+Sunol,1,4,25.0
+Sunset Beach,2,5,40.0
+Surfside,0,5,0.0
+Susanville,2,4,50.0
+Sutter,1,4,25.0
+Sutter Creek,1,4,25.0
+Sylmar,1,5,20.0
+Taft,2,4,50.0
+Tahoe City,1,4,25.0
+Tahoe Vista,2,4,50.0
+Tahoma,2,4,50.0
+Tarzana,2,5,40.0
+Taylorsville,1,4,25.0
+Tecate,0,5,0.0
+Tecopa,2,4,50.0
+Tehachapi,1,4,25.0
+Tehama,0,4,0.0
+Temecula,6,12,50.0
+Temple City,0,5,0.0
+Templeton,3,4,75.0
+Termo,1,4,25.0
+Terra Bella,1,4,25.0
+The Sea Ranch,2,4,50.0
+Thermal,2,5,40.0
+Thornton,2,4,50.0
+Thousand Oaks,2,10,20.0
+Thousand Palms,1,5,20.0
+Three Rivers,0,4,0.0
+Tipton,4,4,100.0
+Tollhouse,1,4,25.0
+Tomales,1,4,25.0
+Topanga,1,5,20.0
+Topaz,1,4,25.0
+Torrance,8,25,32.0
+Trabuco Canyon,2,4,50.0
+Tracy,0,4,0.0
+Tranquillity,2,4,50.0
+Traver,1,4,25.0
+Travis Afb,2,4,50.0
+Trinidad,2,4,50.0
+Trinity Center,2,4,50.0
+Trona,2,4,50.0
+Truckee,4,4,100.0
+Tujunga,3,5,60.0
+Tulare,1,4,25.0
+Tulelake,0,4,0.0
+Tuolumne,1,4,25.0
+Tupman,0,4,0.0
+Turlock,3,8,37.5
+Tustin,1,8,12.5
+Twain,4,4,100.0
+Twain Harte,0,4,0.0
+Twentynine Palms,3,10,30.0
+Twin Bridges,0,4,0.0
+Ukiah,1,4,25.0
+Union City,2,4,50.0
+Upland,0,10,0.0
+Upper Lake,0,4,0.0
+Vacaville,1,8,12.5
+Valencia,3,10,30.0
+Vallecito,2,4,50.0
+Vallejo,3,16,18.75
+Valley Center,2,5,40.0
+Valley Ford,1,4,25.0
+Valley Springs,1,4,25.0
+Valley Village,1,5,20.0
+Valyermo,1,4,25.0
+Van Nuys,4,20,20.0
+Venice,1,5,20.0
+Ventura,4,12,33.33333333333333
+Vernalis,2,4,50.0
+Victorville,2,8,25.0
+Vidal,2,5,40.0
+Villa Park,0,4,0.0
+Vina,2,4,50.0
+Visalia,4,12,33.33333333333333
+Vista,2,10,20.0
+Volcano,0,4,0.0
+Wallace,1,4,25.0
+Walnut,2,5,40.0
+Walnut Creek,4,12,33.33333333333333
+Walnut Grove,2,4,50.0
+Warner Springs,0,5,0.0
+Wasco,1,4,25.0
+Washington,0,4,0.0
+Waterford,2,4,50.0
+Watsonville,1,4,25.0
+Weaverville,2,4,50.0
+Weed,0,4,0.0
+Weimar,1,4,25.0
+Weldon,0,4,0.0
+Wendel,1,4,25.0
+Weott,0,4,0.0
+West Covina,3,15,20.0
+West Hills,0,5,0.0
+West Hollywood,1,5,20.0
+West Point,1,4,25.0
+West Sacramento,1,8,12.5
+Westlake Village,1,5,20.0
+Westley,2,4,50.0
+Westminster,0,4,0.0
+Westmorland,2,5,40.0
+Westport,1,4,25.0
+Westwood,2,4,50.0
+Wheatland,3,4,75.0
+White Water,2,5,40.0
+Whitethorn,2,4,50.0
+Whitmore,1,4,25.0
+Whittier,5,30,16.666666666666664
+Wildomar,0,4,0.0
+Williams,2,4,50.0
+Willits,0,4,0.0
+Willow Creek,0,4,0.0
+Willows,1,4,25.0
+Wilmington,0,5,0.0
+Wilseyville,0,4,0.0
+Wilton,1,4,25.0
+Winchester,0,4,0.0
+Windsor,0,4,0.0
+Winnetka,1,5,20.0
+Winterhaven,1,5,20.0
+Winters,2,4,50.0
+Winton,1,4,25.0
+Wishon,0,4,0.0
+Witter Springs,1,4,25.0
+Wofford Heights,1,4,25.0
+Woodacre,1,4,25.0
+Woodbridge,1,4,25.0
+Woodlake,0,4,0.0
+Woodland,3,8,37.5
+Woodland Hills,1,10,10.0
+Woody,2,4,50.0
+Wrightwood,4,4,100.0
+Yermo,1,4,25.0
+Yorba Linda,3,8,37.5
+Yorkville,1,4,25.0
+Yosemite National Park,2,4,50.0
+Yountville,0,4,0.0
+Yreka,0,4,0.0
+Yuba City,2,8,25.0
+Yucaipa,1,4,25.0
+Yucca Valley,0,5,0.0
+Zenia,1,4,25.0
